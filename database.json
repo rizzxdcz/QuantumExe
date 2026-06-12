@@ -7,6 +7,15 @@
       "role": "Reseller",
       "registeredAt": "2026-06-12T14:57:28.158Z",
       "tokens": []
+    },
+    "8097430888": {
+      "id": 8097430888,
+      "username": null,
+      "firstName": null,
+      "lastName": null,
+      "role": "Reseller",
+      "registeredAt": "2026-06-12T22:29:06.210Z",
+      "tokens": []
     }
   },
   "tokens": [],
